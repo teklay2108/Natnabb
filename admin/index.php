@@ -4,7 +4,7 @@
  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  * 
- * License: http://www.mybb.com/about/license
+ * License of natna bb: http://www.mybb.com/about/license
  *
  */
 
